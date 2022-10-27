@@ -127,3 +127,5 @@ while remainder != x:
 # you won! Yay!
 print("The word was: " + x)
 print("\ncongrats! You won!!"); time.sleep(2)
+
+print('hi my name is nate')

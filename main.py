@@ -129,3 +129,4 @@ def start():
     print("The word was: " + word)
     print("\ncongrats! You won!!");
     time.sleep(2)
+start()
